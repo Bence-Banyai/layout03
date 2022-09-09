@@ -35,6 +35,13 @@
     width: 476px;
 }
 
+.oszlop2 p{
+    margin: 5px;
+    padding: 5px;
+    background-color: honeydew;
+    text-align: justify;
+}
+
 .clear {
     clear: both;
 }
@@ -47,4 +54,20 @@
 
 .oszlop4 img{
     width: 100%;
+}
+
+.oszlop4 p{
+    margin: 5px;
+    padding: 5px;
+    background-color: honeydew;
+    text-align: justify;
+}
+
+#footer{
+    width: 100%;
+    text-align: center
+}
+#footer p{
+    color: white;
+    font-style: italic;
 }
